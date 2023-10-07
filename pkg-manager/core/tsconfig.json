@@ -124,6 +124,9 @@
       "path": "../../worker"
     },
     {
+      "path": "../../workspace/graph-sequencer"
+    },
+    {
       "path": "../client"
     },
     {

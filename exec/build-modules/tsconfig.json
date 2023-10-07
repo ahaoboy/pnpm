@@ -34,6 +34,9 @@
       "path": "../../store/store-controller-types"
     },
     {
+      "path": "../../workspace/graph-sequencer"
+    },
+    {
       "path": "../lifecycle"
     }
   ],

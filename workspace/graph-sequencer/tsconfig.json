@@ -9,12 +9,6 @@
     "../../__typings__/**/*.d.ts"
   ],
   "references": [
-    {
-      "path": "../../packages/types"
-    },
-    {
-      "path": "../graph-sequencer"
-    }
   ],
   "composite": true
 }

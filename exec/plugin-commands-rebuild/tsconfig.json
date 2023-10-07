@@ -85,6 +85,9 @@
       "path": "../../workspace/find-packages"
     },
     {
+      "path": "../../workspace/graph-sequencer"
+    },
+    {
       "path": "../../workspace/sort-packages"
     },
     {

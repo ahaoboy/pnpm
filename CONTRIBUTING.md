@@ -36,7 +36,7 @@ sudo dnf install make automake gcc gcc-c++ kernel-devel
 You can run the tests of the project that you modified by going to the project's directory and running:
 
 ```shell
-pnpm test
+pnpm test-main
 ```
 
 Alternatively, you can run it from anywhere by specifying the name of the project using the `--filter` option:
